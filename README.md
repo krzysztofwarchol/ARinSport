@@ -1,6 +1,6 @@
 # Master's Thesis: **Action recognition in sport**
 
-**Note:** This repository is an attachment to the author's master’s thesis. For a comprehensive analysis, complete methodology, and detailed results, please refer to the full thesis document.
+**Note:** This repository is an attachment to the author's master’s thesis. For a comprehensive analysis, complete methodology, and detailed results, please refer to the full thesis.
 
 ## Table of Contents
 
